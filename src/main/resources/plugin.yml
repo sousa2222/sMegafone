@@ -1,0 +1,11 @@
+name: sMegafone
+version: '${project.version}'
+main: me.sousa222.smegafone.SMegafone
+api-version: 1.8.8
+load: STARTUP
+authors: [ sousa222 ]
+description: Plugin customizável de /megafone
+commands:
+  megafone:
+    usage: /<command>
+    description: "Utilize o megafone"

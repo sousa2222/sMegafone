@@ -1,0 +1,20 @@
+#
+# sMegafone
+# Um simples plugin de anunciar mensagens por permissão e money por plugins de economia que utilizam o vault.
+# feito por @! sousa222#2222
+#
+
+#cooldown em segundos
+cooldown: 60
+# %jogador% - retorna o nome do player que executou o comando
+# %anuncio% - retorna o anuncio que o jogador inseriu
+anuncio:
+  - ""
+  - "&e&lMEGAFONE"
+  - ""
+  - "&fJogador: &7%jogador%"
+  - "&fAnuncio: &7%anuncio%"
+  - ""
+erro_sem_argumentos: "&cDesculpe, mas você tem que escrever uma mensagem para anunciar!"
+erro_sem_permissao: "&cVocê não tem permissão para executar esse comando."
+erro_console: "Você não pode executar esse comando pelo console!"

@@ -1,2 +1,3 @@
 # sMegafone
-Um simples plugin de megafone com permissão e cooldown. \nPermissões: smegafone.megafone
+Um simples plugin de megafone com permissão e cooldown. 
+Permissões: smegafone.megafone

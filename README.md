@@ -80,7 +80,7 @@ erro_console: "Você não pode executar esse comando pelo console!"
 - [Vault](https://github.com/MilkBowl/VaultAPI) 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/YannScol">
-<img src="https://avatars.githubusercontent.com/u/59032835?s=400&u=2f044498e72bb88cae24c81891f4248e15c6b9e9&v=4" width="100px;" alt=""/><br /><sub><b>Sousa</b></sub></a><br /><a href="https://github.com/YannScol/Head/commits?author=YannScol" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/diogox2705">
+<img src="https://avatars.githubusercontent.com/u/59032835?s=400&u=2f044498e72bb88cae24c81891f4248e15c6b9e9&v=4" width="100px;" alt=""/><br /><sub><b>Sousa</b></sub></a><br /><a href="https://github.com/diogox2705/sMegafone/commits?author=diogox2705" title="Code">💻</a></td>
   </tr>
 </table>

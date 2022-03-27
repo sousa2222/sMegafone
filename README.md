@@ -1,5 +1,11 @@
 # sMegafone
-Um simples plugin de megafone com permissão e cooldown. 
+Um simples plugin de megafone com acesso a vários recursos interessantes:
+
+- Mensagem totalmente configurável;
+- Sons ao anunciar configurável;
+- Title ao anunciar configurável;
+- Sistema de cooldown;
+- Preço para utilizar o comando.
 
 ### Pré-requisitos
 * Java 8+

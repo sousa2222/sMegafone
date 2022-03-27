@@ -1,11 +1,17 @@
 name: sMegafone
 version: '${project.version}'
+depend: [ Vault ]
 main: me.sousa222.smegafone.SMegafone
 api-version: 1.8.8
-load: STARTUP
 authors: [ sousa222 ]
 description: Plugin customizável de /megafone
 commands:
   megafone:
     usage: /<command>
     description: "Utilize o megafone"
+  smegafone:
+    usage: /<command>
+    description: "Recarrega a configuração do plugin"
+  megafonem:
+    usage: /<command>
+    description: "teste"
